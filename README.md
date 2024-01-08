@@ -6,7 +6,10 @@
 -  Linkdin:-https://www.linkedin.com/in/gautam-srivastava-a2b10422a/
 
 Some of my coding profiles you would like to have a look on:-
+
 *Codechef-https://www.codechef.com/users/gautamsrivasta
+
 *GeeksforGeeks-https://auth.geeksforgeeks.org/user/gautams_2202
+
 *LeetCode-https://leetcode.com/Gautams_2202/
 
