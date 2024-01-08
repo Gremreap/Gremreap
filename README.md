@@ -3,11 +3,10 @@
 - 🌱 I’m currently learning Web development along with exploring Data structures and Algorithms(DSA)
 - 💞️ I’m looking to collaborate preferabely for SDE roles 
 - 📫 You can reach me out on...
-
 -  Linkdin:-https://www.linkedin.com/in/gautam-srivastava-a2b10422a/
--  
 
-<!---
-Gremreap/Gremreap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Some of my coding profiles you would like to have a look on:-
+*Codechef-https://www.codechef.com/users/gautamsrivasta
+*GeeksforGeeks-https://auth.geeksforgeeks.org/user/gautams_2202
+*LeetCode-https://leetcode.com/Gautams_2202/
+
