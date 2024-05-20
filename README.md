@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
-- 💬 Ask me about **Operating Systems,Data Structures,Networks**
+- 💬 Ask me about **Operating Systems,Data Structures,Networks,Databases**
 
 - 📫 How to reach me **gautamsrivastava141@gmail.com**
 
